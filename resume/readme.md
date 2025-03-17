@@ -1,7 +1,7 @@
 
 # Resume of [Samchon](https://github.com/samchon)
 > 이 문서는 축약 이력서로써, 각 단원의 링크를 클릭하면, 상세 페이지로 이동합니다.
-
+# 수정
 ## [1. Outline](https://github.com/samchon/resume/blob/master/STORY.md#1-outline)
 ### [1.1. Profile](https://github.com/samchon/resume/blob/master/STORY.md#11-outline)
 이름: 남 정호
